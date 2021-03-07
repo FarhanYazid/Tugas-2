@@ -1,0 +1,20 @@
+.container {
+    color: black;
+    background-color: white ;
+    
+}
+.justify { text-align: justify;}
+.colom1{
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+}
+
+.sidebar{
+    color: black;
+    background-color: white ;
+    float: right;
+    width: 30%;
+    padding: 15px;
+    box-sizing: border-box;
+}
